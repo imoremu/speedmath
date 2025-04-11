@@ -56,7 +56,7 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+### Step 3: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
 
@@ -65,7 +65,7 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+### Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
 
